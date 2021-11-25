@@ -1,4 +1,20 @@
 # Challenge - Heroes App
+
+Solucion:
+
+Para realizar challenge se creo una SPA con React Js, ademas se utilizaron las siguientes librerias:
+    -material-ui
+    -axios
+    -json server
+    -react-router-dom
+    
+Json Server sirve para poder simular una REST API, para ellos se uso un paquete llamado "Concurrently" que permite ejecutar la API en el puerto 5000 en simultaneo con el SPA. Para ejecutar la aplicacion se debera:
+    1) clonar el repositorio
+    2) ejecutar el comando "npm install"
+    3) ejecutar el comando "npm run dev"
+
+
+Enuncialdo:
 Se requiere construir una SPA con React Js
 
 Esta Web App debe consumir el siguiente json como si fuera una api externa.
